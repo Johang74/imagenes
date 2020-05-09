@@ -1,0 +1,6 @@
+'mano'
+'boca'
+'dedo'
+'cara'
+'ojos'
+'pies'
